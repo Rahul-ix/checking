@@ -10,6 +10,8 @@ public class Test7Application {
 	int y=20;
 	int c=100;
 	boolean n=false;
+	int p=20;
+	int t=10;
 	boolean v=true;
 	int z=200;
 	public static void main(String[] args) {

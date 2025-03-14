@@ -8,6 +8,8 @@ public class Test7Application {
 
 	int x=100;
 	int y=20;
+	int c=100;
+	boolean n=false;
 	boolean v=true;
 	int z=200;
 	public static void main(String[] args) {
